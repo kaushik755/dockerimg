@@ -1,6 +1,6 @@
 {
   "name": "node-js-sample",
-  "version": "0.2.0",
+  "version": "14",
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
   "scripts": {
@@ -10,20 +10,16 @@
     "express": "^4.13.3"
   },
   "engines": {
-    "node": "4.0.0"
+    "node": "8.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "url": "https://github.com/kaushik755/dockerimg"
   },
   "keywords": [
     "node",
-    "heroku",
+    "kaushik755",
     "express"
   ],
-  "author": "Mark Pundsack",
-  "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
-  ],
-  "license": "MIT"
+ 
 }
